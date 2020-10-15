@@ -154,3 +154,12 @@ D:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplicati
 D:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
 D:\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
 D:\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+D:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorComponent.input.cache
+D:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Contacts.razor.g.cs
+D:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\RazorDeclaration\WebApplication1.dll
+D:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+D:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+D:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+D:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Contacts.razor.g.cs
+D:\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.dll
+D:\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.pdb
